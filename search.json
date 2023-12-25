@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SQL4DA",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "part_unit_1.html",
+    "href": "part_unit_1.html",
+    "title": "Unit 1",
+    "section": "",
+    "text": "This is the part for Unit 1.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_1_lesson_1.html",
+    "href": "unit_1_lesson_1.html",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "This is Unit 1 Lesson 1 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_1_lesson_2.html",
+    "href": "unit_1_lesson_2.html",
+    "title": "Lesson 2",
+    "section": "",
+    "text": "This is Unit 1 Lesson 2 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "part_unit_2.html",
+    "href": "part_unit_2.html",
+    "title": "Unit 2",
+    "section": "",
+    "text": "This is the part for Unit 2.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_2_lesson_1.html",
+    "href": "unit_2_lesson_1.html",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "This is Unit 2 Lesson 1 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_2_lesson_2.html",
+    "href": "unit_2_lesson_2.html",
+    "title": "Lesson 2",
+    "section": "",
+    "text": "This is Unit 2 Lesson 2 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "part_wrap_up.html",
+    "href": "part_wrap_up.html",
+    "title": "Wrap up",
+    "section": "",
+    "text": "This is the part wrap up qmd.\nThis is the second line."
+  },
+  {
+    "objectID": "unit_1_lesson_1.html#learning-objectives",
+    "href": "unit_1_lesson_1.html#learning-objectives",
+    "title": "Lesson 1",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nLO 1\nLO 2\nLO 3"
+  },
+  {
+    "objectID": "unit_1_lesson_1.html#write-sql",
+    "href": "unit_1_lesson_1.html#write-sql",
+    "title": "Lesson 1",
+    "section": "Write SQL",
+    "text": "Write SQL\n\nDiscussion\nThis is Unit 1 Lesson 1 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_1_lesson_1.html#write-sql-1",
+    "href": "unit_1_lesson_1.html#write-sql-1",
+    "title": "Lesson 1",
+    "section": "Write SQL",
+    "text": "Write SQL\n\nDiscussion\nThis is Unit 1 Lesson 1 qmd.\nThis is a second line."
+  },
+  {
+    "objectID": "unit_1_lesson_1.html#sql-select-specific-columns",
+    "href": "unit_1_lesson_1.html#sql-select-specific-columns",
+    "title": "Lesson 1",
+    "section": "SQL select specific columns",
+    "text": "SQL select specific columns\nRun this SQL:\n\nResult set: (first 2 rows)\n\n\nDiscussion\nThis is Unit 1 Lesson 1 qmd.\nThis is a second line.\n\n\n\n\n\n\nNote\n\n\n\nThis is a special note message."
+  },
+  {
+    "objectID": "unit_1_lesson_1.html#sql-select-all-columns",
+    "href": "unit_1_lesson_1.html#sql-select-all-columns",
+    "title": "Lesson 1",
+    "section": "SQL select all columns",
+    "text": "SQL select all columns\n\nDiscussion\nThis is Unit 1 Lesson 1 qmd.\nThis is a second line."
+  }
+]
